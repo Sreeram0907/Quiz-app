@@ -11,9 +11,6 @@
   <a href="https://github.com/SafdarJamal/quiz-app/releases">
     <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
-  </a>
 </p>
 
 <p align="center">
